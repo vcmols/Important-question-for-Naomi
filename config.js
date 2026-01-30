@@ -76,7 +76,7 @@ const CONFIG = {
     // Add your own music URL after getting proper licenses
     music: {
         enabled: true,                     // Music feature is enabled
-        autoplay: true,                    // Try to autoplay (note: some browsers may block this)
+        autoplay: false,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "./Chappell_Roan_Red_Wine_Supernova_Lyrics_gxb6uk.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
