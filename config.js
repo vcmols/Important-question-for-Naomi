@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '🌹', '❤️‍🔥', '💓', '💕'],  // Heart emojis
+        hearts: ['❤️', '💖', '🌹', '❤️‍🔥', '💓', '💕', '🐨'],  // Heart emojis
         koalas: ['🐨']                       // Cute bear emojis
     },
 
@@ -77,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://drive.google.com/uc?export=download&id=1Z2iZJC3G7cpUuAz8D5VP3KROUSaCsUku", // Music streaming URL
+        musicUrl: "./Chappell_Roan_Red_Wine_Supernova_Lyrics_gxb6uk.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
