@@ -70,7 +70,11 @@ const CONFIG = {
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
-    }
+    },
+    music: {
+  enabled: false
+}
+
 };
 
 // Don't modify anything below this line unless you know what you're doing
