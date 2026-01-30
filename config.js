@@ -74,7 +74,7 @@ const CONFIG = {
     music: {
   enabled: true,
   autoplay: false,
-  musicUrl: "./valentine.mp3",
+  musicUrl: "https://res.cloudinary.com/dklmk2sg1/video/upload/v1769809092/Chappell_Roan_Red_Wine_Supernova_Lyrics_gxb6uk.mp3",
   startText: "🎵 Play Music",
   stopText: "🔇 Stop Music",
   volume: 0.5
