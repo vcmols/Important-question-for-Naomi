@@ -70,17 +70,7 @@ const CONFIG = {
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
-    },
-    music: {
-  enabled: true,
-  autoplay: false,
-  musicUrl: "https://res.cloudinary.com/dklmk2sg1/video/upload/v1769809092/Chappell_Roan_Red_Wine_Supernova_Lyrics_gxb6uk.mp3",
-  startText: "🎵 Play Music",
-  stopText: "🔇 Stop Music",
-  volume: 0.5
     }
-}
-
 }
 
 };
