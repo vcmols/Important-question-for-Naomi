@@ -72,7 +72,15 @@ const CONFIG = {
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
     },
     music: {
-  enabled: false
+  enabled: true,
+  autoplay: false,
+  musicUrl: "./valentine.mp3",
+  startText: "🎵 Play Music",
+  stopText: "🔇 Stop Music",
+  volume: 0.5
+    }
+}
+
 }
 
 };
